@@ -1,0 +1,17 @@
+Package: JRpsyctools
+Type: Package
+Title: Tools for Plotting and Consciousness Research Simulations
+Version: 0.1.0
+Authors@R: c(
+    person(
+      "Julie", "Rezková",
+      email = "julie.rezkova@student.uva.nl",
+      role = c("aut", "cre")
+    )
+  )
+Description: Includes my_hist(), a styled base R's hist() with a custom 
+    color palette and improved readability, and a function for simulating 
+    detection rate data relevant to consciousness research paradigms such as
+    masking.
+Encoding: UTF-8
+LazyData: true
